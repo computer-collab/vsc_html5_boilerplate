@@ -1,0 +1,22 @@
+{
+	"html5-boilerplate" : {
+		"prefix": "html5-boilerplate",
+		"body" : [
+			"<!DOCTYPE html>",
+			
+			"<html>",
+			"\t<head>",
+			"\t\t<meta charset=\"utf-8\">",
+			"\t\t<title>$1</title>",
+			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"\t\t<link rel=\"stylesheet\" href=\"$2\">",
+    		"\t</head>",
+    		"\t<body>",
+			"\t\t$3",
+			"\t\t<script src=\"$4\" async defer></script>",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "A very basic HTML5 boiler plate code."
+	}
+}
